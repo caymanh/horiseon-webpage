@@ -7,7 +7,7 @@ This repository ("`Horiseon Webpage`") is where we develop the webpage for Horis
 ## Horiseon Webpage
 
 <p align="center">
-  <img alt="Horiseon Webpage" src="https://github.com/caymanh/horiseon-webpage-refactoring/blob/main/assets/images/digital-marketing-meeting.jpg">
+  <img alt="Horiseon Webpage" src="https://github.com/caymanh/horiseon-webpage/blob/main/assets/images/01-html-css-git-homework-demo.png">
 </p>
 
 ## URL
